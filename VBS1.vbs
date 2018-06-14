@@ -1,5 +1,5 @@
-Const sRootFolder = "C:\Users\a.khussanov\Documents\Notes\2010"
-Const sExportedModule = "C:\Users\a.khussanov\Documents\Notes\2010\MyMacro2010.bas"
+Const sRootFolder = "C:\Users\a.khussanov\Documents\Notes\2011"
+Const sExportedModule = "C:\Users\a.khussanov\Documents\Notes\2011\MyMacro2011.bas"
 Const sMacroName = "Trip"
 
 Dim oFSO, oFile ' File and Folder variables
